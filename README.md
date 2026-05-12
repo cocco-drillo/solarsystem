@@ -16,7 +16,7 @@ The output is a fully interactive HTML file — rotate the scene, zoom in and ou
 
 ---
 
-## ✨ Features
+## Features 
 
 - Real planetary positions via NASA JPL DE440 ephemerides (Astropy)
 - All 8 planets + Moon + Pluto
@@ -137,3 +137,6 @@ MIT — see [LICENSE](LICENSE).
 ## Author
 
 Alessandro Oliverio - drillo — [github.com/cocco-drillo](https://github.com/cocco-drillo)
+
+
+**********"inter sidera versor"**********
